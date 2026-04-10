@@ -1,14 +1,6 @@
 {
   "posts": [
     {
-      "day": 0,
-      "date": "2026-04-11",
-      "title": "TEST — Ignore This Post",
-      "pdf": "Day02_SQL_Mistakes.pdf",
-      "caption": "Testing automation. Please ignore.\n\n#test",
-      "posted": true
-    },
-    {
       "day": 1,
       "date": "2026-04-14",
       "title": "10 Spring Boot Mistakes That Cost Me Production Bugs",
