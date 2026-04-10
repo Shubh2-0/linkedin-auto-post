@@ -6,7 +6,7 @@
       "title": "TEST — Ignore This Post",
       "pdf": "Day02_SQL_Mistakes.pdf",
       "caption": "Testing automation. Please ignore.\n\n#test",
-      "posted": false
+      "posted": true
     },
     {
       "day": 1,
