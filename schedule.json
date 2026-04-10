@@ -6,7 +6,7 @@
       "title": "TEST POST — Will Delete",
       "pdf": "Day01_SpringBoot_Mistakes.pdf",
       "caption": "Testing automated posting. Please ignore this post.\n\n#test",
-      "posted": false
+      "posted": true
     },
     {
       "day": 1,
