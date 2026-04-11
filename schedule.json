@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "day": 0,
+      "date": "2026-04-11",
+      "title": "TEST — HD Quality Check",
+      "pdf": "Day01_SpringBoot_Mistakes.pdf",
+      "caption": "Testing HD carousel quality. Ignore this post.\n\n#test",
+      "posted": false
+    },
+    {
       "day": 1,
       "date": "2026-04-14",
       "title": "10 Spring Boot Mistakes That Cost Me Production Bugs",
