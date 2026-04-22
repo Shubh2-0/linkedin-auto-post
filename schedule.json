@@ -54,7 +54,7 @@
       "title": "10 Microservices Mistakes I Learned The Hard Way",
       "pdf": "Day07_Microservices_Mistakes.pdf",
       "caption": "10 Microservices mistakes I learned the hard way.\n\nWorking with Spring Boot Microservices taught me these lessons — some were painful.\n\nMistake #4 (Shared Database) is the most common and most damaging one I've seen.\n\nSave this if you're building distributed systems 👇\n\n#microservices #springboot #java #backenddevelopment #softwareengineering",
-      "posted": false
+      "posted": true
     },
     {
       "day": 8,
