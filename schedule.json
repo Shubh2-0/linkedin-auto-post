@@ -86,7 +86,7 @@
       "title": "How a Single SQL Query Crashed Our Production Server",
       "pdf": "Day11_How_a_Single_SQL_Query_Crashed_Our_Produ.pdf",
       "caption": "One SQL query took down our entire production server at 3 AM.\n\nNo index. No LIMIT. SELECT *. 8 million rows scanned.\n\nHere's exactly what happened, why it crashed, and the 5-minute fix that made it 3,600x faster.\n\nHave you ever had a production incident caused by a bad query? 👇\n\n#sql #database #backenddevelopment #programming #softwareengineering",
-      "posted": false
+      "posted": true
     },
     {
       "day": 12,
