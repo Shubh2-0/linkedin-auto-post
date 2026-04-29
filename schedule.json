@@ -94,7 +94,7 @@
       "title": "Java HashMap Internals — How It Actually Works",
       "pdf": "Day12_Java_HashMap_Internals_-_How_It_Actually.pdf",
       "caption": "Every Java dev uses HashMap daily. Very few know how it actually works under the hood.\n\nBuckets, hashing, collisions, treeification, rehashing — all explained visually.\n\nThis is asked in 90% of Java interviews. Save this.\n\nWhich HashMap question tripped you up in an interview? 👇\n\n#java #datastructures #programming #javadeveloper #softwareengineering",
-      "posted": false
+      "posted": true
     },
     {
       "day": 13,
